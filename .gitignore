@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# LTSpice binary outputs (large files)
+*.raw
+*.op.raw
+*.log
+*.net
+
+# Output images (regeneratable)
+output/
+
+# OS
+Thumbs.db
+.DS_Store
+nul
